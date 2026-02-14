@@ -13,7 +13,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],        // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '😘', '🌹', '💕'],        // Heart emojis
         bears: ['🧸', '🐻', '🐵']                       // Cute bear emojis
     },
 
@@ -50,7 +50,7 @@ const CONFIG = {
     celebration: {
         title: "Yippee! I'm the luckiest man in the world! 🎉💝💓",
         message: "You will be my Valentine forever and always, muuuaaahhhhh!😘​",
-        emojis: "💖🤗💝❤️💕🌹😘"  // These will bounce around
+        emojis: ""  // These will bounce around
     },
 
     // Color scheme for the website
