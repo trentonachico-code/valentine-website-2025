@@ -50,7 +50,7 @@ const CONFIG = {
     celebration: {
         title: "Yippee! I'm the luckiest man in the world! 🎉💝💓",
         message: "You will be my Valentine forever and always Adele, muuuaaahhhhh!😘​",
-        emojis: "💖🤗💝❤️💕🌹😘🐵"  // These will bounce around
+        emojis: "💖🤗💝❤️💕🌹😘"  // These will bounce around
     },
 
     // Color scheme for the website
